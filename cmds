@@ -1,0 +1,11 @@
+1. Create a new repo in github.com
+2. clone to local machine.
+3. copy the file to the cloned folder.
+4. open cmd in the same folder.
+Terminal command
+5. git status
+6. git add .
+7. git commit -m "commit message".
+8. git push
+9. give user_name, password
+10. done.
